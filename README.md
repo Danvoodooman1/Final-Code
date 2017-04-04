@@ -10,17 +10,6 @@ With my code you will input a part number. The code will then take that number d
 
 I made this code because I work in a store with a bad ordering system and I believe this would help a lot.
 
-# Installation
-
-
-
-# API Reference
-
-
-
-# Tests
-
-
-
 # Contributors
 
+I welcome any collaboration on this project. I wrote the code myself, but it is rough. If anyone can improve upon it I welcome that.
